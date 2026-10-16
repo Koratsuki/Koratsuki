@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Leslie León Sinclair
+# 👋 Hi, I'm Leslie León
 
 ### DevOps / DevSecOps Engineer | SRE | Linux & Cloud Infrastructure | Networking
 
